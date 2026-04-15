@@ -1,2 +1,1 @@
-This is my portfolio - branch1 change
-
+This is my portfolio - combined changes from branch1 and branch2
