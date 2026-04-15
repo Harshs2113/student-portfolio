@@ -1,1 +1,2 @@
 "Skills: Java, Git" 
+"Learning AWS,Docker,Jenkins" 
